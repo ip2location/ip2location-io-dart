@@ -1,0 +1,15 @@
+name: ip2location_io
+description: A Dart library to query geolocation, proxy and domain data from IP2Location.io API.
+version: 1.0.0
+repository: https://github.com/ip2location/ip2location-io-dart
+
+environment:
+  sdk: '>=3.8.2 <4.0.0'
+
+dependencies:
+  http: ^1.5.0
+  punycoder: ^0.2.2
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
