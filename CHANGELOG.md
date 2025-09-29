@@ -1,3 +1,9 @@
+## 1.0.4
+
+**Released on:** 2025-09-29
+
+- Fixed missing example.
+
 ## 1.0.3
 
 **Released on:** 2025-09-29
