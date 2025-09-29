@@ -11,6 +11,7 @@ class HostedDomain {
 
   final Configuration _configuration;
 
+  /// Creates a new [HostedDomain].
   HostedDomain(this._configuration);
 
   /// Query IP2Location.io hosted domains data for a given IP.

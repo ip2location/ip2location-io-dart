@@ -11,6 +11,7 @@ class IPGeolocation {
 
   final Configuration _configuration;
 
+  /// Creates a new [IPGeolocation].
   IPGeolocation(this._configuration);
 
   /// Query IP2Location.io geolocation data with an IP address.

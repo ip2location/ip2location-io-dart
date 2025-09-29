@@ -1870,6 +1870,7 @@ class DomainWhois {
 
   final Configuration _configuration;
 
+  /// Creates a new [DomainWhois].
   DomainWhois(this._configuration);
 
   /// Query IP2WHOIS domain data.
