@@ -1,3 +1,9 @@
+## 1.0.1
+
+**Released on:** 2025-09-29
+
+- Fixed missing documentation.
+
 ## 1.0.0
 
 **Released on:** 2025-09-26

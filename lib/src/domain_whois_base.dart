@@ -3,6 +3,8 @@ import 'configuration_base.dart';
 import 'package:http/http.dart' as http;
 import 'package:punycoder/punycoder.dart';
 
+/// This class performs the lookup of WHOIS data from a domain name
+/// by querying the IP2WHOIS API.
 class DomainWhois {
   static const String _baseUrl = 'https://api.ip2whois.com/v2';
   static const String _format = 'json';
