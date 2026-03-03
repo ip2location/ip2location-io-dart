@@ -1,7 +1,8 @@
 ## 1.0.5
-**Unreleased**
 
-- Upgrade punycoder dependency and adopt domain specific helper methods
+**Released on:** 2026-03-03
+
+- Upgraded punycoder dependency and adopted domain specific helper methods.
 
 ## 1.0.4
 

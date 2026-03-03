@@ -4,7 +4,7 @@ class Configuration {
   late String apiKey;
 
   /// The version of the SDK.
-  final String sourceVersion = '1.0.4';
+  final String sourceVersion = '1.0.5';
 
   /// The SDK type.
   final String source = 'sdk-dart-iplio';
