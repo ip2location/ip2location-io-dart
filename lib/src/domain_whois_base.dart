@@ -1903,14 +1903,12 @@ class DomainWhois {
 
   /// Returns the Punycode for the domain name.
   String toPunycode(String domain) {
-    const domainCodec = PunycodeCodec();
-    return domainCodec.encode(domain);
+    return domainToAscii(domain);
   }
 
   /// Returns the domain name for the Punycode.
   String toNormalText(String domain) {
-    const domainCodec = PunycodeCodec();
-    return domainCodec.decode(domain);
+    return domainToUnicode(domain);
   }
 
   /// Extract the normalized domain name (host + TLD) from a URL.
