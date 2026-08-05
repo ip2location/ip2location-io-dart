@@ -1,3 +1,9 @@
+## 1.0.6
+
+**Released on:** 2026-08-05
+
+- Added topics.
+
 ## 1.0.5
 
 **Released on:** 2026-03-03
